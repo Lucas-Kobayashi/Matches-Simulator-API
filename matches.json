@@ -15,39 +15,4 @@
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
-  },
-  {
-    "descricao": "Eliminatórias Copa 2022",
-    "local": {
-        "nome": "Olympiastadion",
-        "imagem": "TODO"
-    },
-    "mandante": {
-      "nome": "Russia",
-      "forca": 4,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ru.png"
-    },
-    "visitante": {
-      "nome": "Espanha",
-      "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/es.png"
-    }
-  },
-  {
-    "descricao": "Eliminatórias Copa 2022",
-    "local": {
-        "nome": "Nissan Stadium",
-        "imagem": "TODO"
-    },
-    "mandante": {
-      "nome": "Japão",
-      "forca": 4,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/jp.png"
-    },
-    "visitante": {
-      "nome": "Coreia",
-      "forca": 4,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/kr.png"
-    }
-  },
-]
+  }
