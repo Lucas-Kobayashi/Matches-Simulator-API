@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
         "nome": "Maracanã",
-        "imagem": "TODO"
+        "imagem": "http://sportinsider.com.br/wp-content/uploads/2022/03/Camarote-do-Maracan%C3%A3.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -20,7 +20,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
         "nome": "Olympiastadion",
-        "imagem": "TODO"
+        "imagem": "https://www.emerce.nl/content/uploads/2022/05/2022-05-20-Extreme-Olympiastadion-uitgelicht.jpg"
     },
     "mandante": {
       "nome": "Russia",
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
         "nome": "Nissan Stadium",
-        "imagem": "TODO"
+        "imagem": "https://gray-wsmv-prod.cdn.arcpublishing.com/resizer/RFatcQ64h4eLR0X7gjyGGFcyDX4=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/WY7JWCQBF5FAVAHXDW5XOUGUIY.jpg"
     },
     "mandante": {
       "nome": "Japão",
@@ -54,7 +54,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
         "nome": "Estádio Olímpico Rades",
-        "imagem": "TODO"
+        "imagem": "https://www.sopra-vibes.com/wp-content/uploads/2022/02/First-National-Bank.jpg"
     },
     "mandante": {
       "nome": "Camarões",
